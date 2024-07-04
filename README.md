@@ -10,4 +10,6 @@ The repository includes two versions of the login page:
 1. Login_jsp: This version uses a hardcoded user email and password for authentication.
 2. Login_jsp_mysql: This version uses a MySQL database to store and authenticate user emails and passwords. MySQL is run using XAMPP.
 
+<be>
+Screenshots and steps for setting up the project and connecting the Tomcat server with NetBeans are provided in the setup section below.
 
