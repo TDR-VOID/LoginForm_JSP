@@ -7,7 +7,7 @@ This repository contains a simple web-based login form for user authentication. 
  
 The repository includes two versions of the login page:
 
-**1. Login_JSP:** This version uses a hardcoded user email and password for authentication.  
+]**1. Login_JSP:**](Screenshots/) This version uses a hardcoded user email and password for authentication.  
 
 **2. Login_JSP_MySQL:** This version uses a MySQL database to store and authenticate user emails and passwords. MySQL is run using XAMPP.
 
@@ -25,7 +25,7 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 - Follow the installation instructions provided.
 
 2. Download and Install Apache Tomcat:
-- Download Apache Tomcat from the [official website.](https://tomcat.apache.org/whichversion.html).
+- Download Apache Tomcat from the [official website.](https://tomcat.apache.org/whichversion.html)
 - Extract the downloaded ZIP file to a preferred location on your system.
   
 3. Configure Apache Tomcat in NetBeans:
