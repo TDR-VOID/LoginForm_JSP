@@ -7,9 +7,9 @@ This repository contains a simple web-based login form for user authentication. 
  
 The repository includes two versions of the login page:
 
-**1. [Login_JSP:**](Screenshots/) This version uses a hardcoded user email and password for authentication.  
+1. [**Login_JSP:**](Login_JSP) This version uses a hardcoded user email and password for authentication.  
 
-**2. Login_JSP_MySQL:** This version uses a MySQL database to store and authenticate user emails and passwords. MySQL is run using XAMPP.
+2. [**Login_JSP_MySQL:**]( This version uses a MySQL database to store and authenticate user emails and passwords. MySQL is run using XAMPP.
 
 <br>
 Screenshots and steps for setting up the project and connecting the Tomcat server with NetBeans are provided in the setup section below.
