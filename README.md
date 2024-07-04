@@ -42,6 +42,8 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 </div>
 </details>
 
+<br>
+
 ### Setting Up MySQL Database
 <br>
 
