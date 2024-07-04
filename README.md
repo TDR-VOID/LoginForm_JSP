@@ -104,6 +104,8 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
   <img src="Screenshots/Run_Project.png" alt="Run project in NetBeans" width="500" />
 </div>
 </details>
+<br>
+
 
 2. Accessing the Login Page:
 
