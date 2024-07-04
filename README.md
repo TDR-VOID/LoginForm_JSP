@@ -13,3 +13,35 @@ The repository includes two versions of the login page:
 <br>
 Screenshots and steps for setting up the project and connecting the Tomcat server with NetBeans are provided in the setup section below.
 
+
+## Setup
+
+### Initial Project Setup and Connecting Tomcat Server with NetBeans
+<br>
+1. Download and Install NetBeans:
+
+- Download the latest version of NetBeans from the official website.
+- Follow the installation instructions provided.
+
+2. Download and Install Apache Tomcat:
+
+- Download Apache Tomcat from the official website.
+- Extract the downloaded ZIP file to a preferred location on your system.
+
+3. Configure Apache Tomcat in NetBeans:
+- Open NetBeans.
+- Go to Services > Servers.
+- Right-click on Servers and select Add Server.
+- Choose Apache Tomcat and specify the location of your Tomcat installation.
+- Complete the configuration by following the on-screen instructions.
+
+### Setting Up MySQL Database
+<br>
+Download and Install XAMPP:
+
+Download XAMPP from the official website.
+Follow the installation instructions provided.
+Start MySQL:
+
+Open XAMPP Control Panel.
+Start the MySQL service.
