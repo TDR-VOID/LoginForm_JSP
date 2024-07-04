@@ -78,7 +78,6 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 ```
 
 ## Project Structure
-<br>
 
 1. Login_JSP:
 
