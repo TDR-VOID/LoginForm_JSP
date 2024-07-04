@@ -66,3 +66,35 @@ CREATE TABLE users (
 
 INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 ```
+
+## Project Structure
+<br>
+1. Login_jsp:
+
+- Contains a simple login form with hardcoded user credentials.
+- No database connection is used.
+
+2. Login_jsp_mysql:
+
+- Connects to a MySQL database to validate user credentials.
+- Uses JDBC to interact with the database.
+
+## Running the Application
+
+1. Deploying on Apache Tomcat:
+
+- Open the project in NetBeans.
+- Right-click on the project and select Run.
+- The project will be deployed on the Apache Tomcat server.
+
+2.Accessing the Login Page:
+
+-Open your web browser and go to http://localhost:8080/YourProjectName/Login.jsp (replace YourProjectName with your actual project name).
+
+
+## Additional Notes
+- Ensure the MySQL JDBC driver (mysql-connector-java-X.X.X.jar) is added to your project's WEB-INF/lib directory.
+- Update the database connection details (URL, username, password) in the Validation.jsp file according to your MySQL setup.
+- Follow the setup instructions carefully to get the project running on your local machine.
+
+
