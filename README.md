@@ -70,6 +70,7 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 
 ## Project Structure
 <br>
+
 1. Login_jsp:
 
 - Contains a simple login form with hardcoded user credentials.
@@ -90,7 +91,7 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 
 2.Accessing the Login Page:
 
--Open your web browser and go to http://localhost:8080/YourProjectName/Login.jsp (replace YourProjectName with your actual project name).
+- Open your web browser and go to http://localhost:8080/YourProjectName/Login.jsp (replace YourProjectName with your actual project name).
 
 
 ## Additional Notes
