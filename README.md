@@ -35,6 +35,15 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 - Choose Apache Tomcat and specify the location of your Tomcat installation.
 - Complete the configuration by following the on-screen instructions.
 
+<details>
+<summary>Configure Apache Tomcat</summary>
+  <div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Servers_Window.png" alt="Configure Apache Tomcat" width="500" />
+</div>
+</details>
+
+<br>
+
 ### Setting Up MySQL Database
 <br>
 
@@ -69,7 +78,6 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 ```
 
 ## Project Structure
-<br>
 
 1. Login_JSP:
 
@@ -88,6 +96,13 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 - Open the project in NetBeans.
 - Right-click on the project and select Run.
 - The project will be deployed on the Apache Tomcat server.
+
+<details>
+<summary>Run project in NetBeans</summary>
+  <div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Run_Project.png" alt="Run project in NetBeans" width="500" />
+</div>
+</details>
 
 2. Accessing the Login Page:
 
