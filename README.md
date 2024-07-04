@@ -30,8 +30,8 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 
 3. Configure Apache Tomcat in NetBeans:
 - Open NetBeans.
-- Go to Services > Servers.
-- Right-click on Servers and select Add Server.
+- Go to Tools > Servers.
+- Click the "Add Server" in the Servers window.
 - Choose Apache Tomcat and specify the location of your Tomcat installation.
 - Complete the configuration by following the on-screen instructions.
 
