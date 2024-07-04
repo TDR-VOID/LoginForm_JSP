@@ -20,8 +20,6 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 ### Initial Project Setup and Connecting Tomcat Server with NetBeans
 <br>
 1. Download and Install NetBeans:
-
-
 - Download the latest version of NetBeans from the official website.
 - Follow the installation instructions provided.
 
@@ -38,12 +36,12 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 
 ### Setting Up MySQL Database
 <br>
+
 1. Download and Install XAMPP:
 - Download XAMPP from the official website.
 - Follow the installation instructions provided.
 
 2. Start MySQL:
-
 - Open XAMPP Control Panel.
 - Start the MySQL service.
 
