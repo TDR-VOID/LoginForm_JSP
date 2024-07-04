@@ -71,12 +71,12 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 ## Project Structure
 <br>
 
-1. Login_jsp:
+1. Login_JSP:
 
 - Contains a simple login form with hardcoded user credentials.
 - No database connection is used.
 
-2. Login_jsp_mysql:
+2. Login_JSP_MySQL:
 
 - Connects to a MySQL database to validate user credentials.
 - Uses JDBC to interact with the database.
@@ -89,7 +89,7 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 - Right-click on the project and select Run.
 - The project will be deployed on the Apache Tomcat server.
 
-2.Accessing the Login Page:
+2. Accessing the Login Page:
 
 - Open your web browser and go to http://localhost:8080/YourProjectName/Login.jsp (replace YourProjectName with your actual project name).
 
