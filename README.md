@@ -21,11 +21,11 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 <br>
 
 1. Download and Install NetBeans:
-- Download the latest version of NetBeans from the [official website](https://netbeans.apache.org/front/main/download/).
+- Download the latest version of NetBeans from the [official website.](https://netbeans.apache.org/front/main/download/)
 - Follow the installation instructions provided.
 
 2. Download and Install Apache Tomcat:
-- Download Apache Tomcat from the official website.
+- Download Apache Tomcat from the [official website.](https://tomcat.apache.org/whichversion.html).
 - Extract the downloaded ZIP file to a preferred location on your system.
   
 3. Configure Apache Tomcat in NetBeans:
@@ -39,7 +39,7 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 <br>
 
 1. Download and Install XAMPP:
-- Download XAMPP from the official website.
+- Download XAMPP from the [official website.](https://www.apachefriends.org/download.html)
 - Follow the installation instructions provided.
 
 2. Start MySQL:
