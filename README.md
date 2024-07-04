@@ -35,6 +35,13 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 - Choose Apache Tomcat and specify the location of your Tomcat installation.
 - Complete the configuration by following the on-screen instructions.
 
+<details>
+<summary>Configure Apache Tomcat</summary>
+  <div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Servers_Window.png" alt="Configure Apache Tomcat" width="500" />
+</div>
+</details>
+
 ### Setting Up MySQL Database
 <br>
 
