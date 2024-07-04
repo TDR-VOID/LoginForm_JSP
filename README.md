@@ -52,6 +52,7 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 - Create a new database named userdb.
 - Run the following SQL queries to create and populate the users table:
 
+// SQL
 ```SQL
 
 CREATE DATABASE userdb;
