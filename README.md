@@ -19,16 +19,14 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 
 ### Initial Project Setup and Connecting Tomcat Server with NetBeans
 <br>
-1. Download and Install NetBeans:
-
+1. Download and Install NetBeans.
 - Download the latest version of NetBeans from the official website.
 - Follow the installation instructions provided.
 
 2. Download and Install Apache Tomcat:
-
 - Download Apache Tomcat from the official website.
 - Extract the downloaded ZIP file to a preferred location on your system.
-
+  
 3. Configure Apache Tomcat in NetBeans:
 - Open NetBeans.
 - Go to Tools > Servers.
