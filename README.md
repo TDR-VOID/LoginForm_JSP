@@ -37,11 +37,32 @@ Screenshots and steps for setting up the project and connecting the Tomcat serve
 
 ### Setting Up MySQL Database
 <br>
-Download and Install XAMPP:
+1. Download and Install XAMPP:
+- Download XAMPP from the official website.
+- Follow the installation instructions provided.
 
-Download XAMPP from the official website.
-Follow the installation instructions provided.
-Start MySQL:
+2. Start MySQL:
 
-Open XAMPP Control Panel.
-Start the MySQL service.
+- Open XAMPP Control Panel.
+- Start the MySQL service.
+
+3. Create and Populate the Database:
+
+- Open phpMyAdmin from the XAMPP Control Panel.
+- Create a new database named userdb.
+- Run the following SQL queries to create and populate the users table:
+
+```SQL
+
+CREATE DATABASE userdb;
+
+USE userdb;
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL
+);
+
+INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
+```
