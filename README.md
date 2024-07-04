@@ -98,6 +98,13 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 - Right-click on the project and select Run.
 - The project will be deployed on the Apache Tomcat server.
 
+<details>
+<summary>Run project in NetBeans</summary>
+  <div style="display: flex; justify-content: center;">
+  <img src="Screenshots/Run_Project.png" alt="Run project in NetBeans" width="500" />
+</div>
+</details>
+
 2. Accessing the Login Page:
 
 - Open your web browser and go to http://localhost:8080/YourProjectName/Login.jsp (replace YourProjectName with your actual project name).
