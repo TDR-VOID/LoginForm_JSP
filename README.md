@@ -95,7 +95,7 @@ INSERT INTO users (email, password) VALUES ('user@example.com', 'password123');
 
 
 ## Additional Notes
-- Ensure the MySQL JDBC driver (mysql-connector-java-X.X.X.jar) is added to your project's WEB-INF/lib directory.
+- Ensure the MySQL JDBC driver (mysql-connector-java-...jar) is added to your project's WEB-INF/lib directory.
 - Update the database connection details (URL, username, password) in the Validation.jsp file according to your MySQL setup.
 - Follow the setup instructions carefully to get the project running on your local machine.
 
