@@ -18,7 +18,7 @@
             // Database URL, username, and password
             String dbURL = "jdbc:mysql://localhost:3306/userdb";
             String dbUser = "root"; // Default XAMPP MySQL user
-            String dbPassword = ""; // Default XAMPP MySQL password (empty)
+            String dbPassword = ""; // Default XAMPP MySQL password
 
             // Connect to the database
             Connection conn = DriverManager.getConnection(dbURL, dbUser, dbPassword);
