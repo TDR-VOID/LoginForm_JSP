@@ -11,6 +11,7 @@ The repository includes two versions of the login page:
 
 2. [**Login_JSP_MySQL:**](Login_JSP_MySQL) This version uses a MySQL database to store and authenticate user emails and passwords. MySQL is run using XAMPP.
 
+<details>
 <summary>Screenshots of the Web Pages</summary>
   <div style="display: flex; justify-content: center;">
   <img src="Screenshots/Home_Page.png" alt="Home_Page" width="500" />
